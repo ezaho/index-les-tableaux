@@ -1,0 +1,17 @@
+#wrap{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 600px;
+  border: 2px;
+  color:#EE82EE;
+  background-color: sienna;
+}
+.homme{
+  color:green;
+}
+.femme{
+   color:violet;
+   }
+tr:nth-child(even){background-color: #ccc}
+tr:nth-child(odd){background-color: #fff}
